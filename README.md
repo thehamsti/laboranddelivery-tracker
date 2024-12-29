@@ -1,7 +1,9 @@
 # Labor n Delivery Tracker
-Just a simple app I made for my wife to anonymously track how many babies she has birthed, and details about each birth.
+Just a simple mobile app (specifically for iOS) I made for my wife to anonymously track how many babies she has birthed, and details about each birth.
 
-Has a stats page where she can see where they are.
+### Features:
+* Stats page with ability to see breakdown of babies she has helped birth in the past selected time period.
+* Quick and easy input for use in a busy department (labor and delivery)
 
 ## Why Expo? (Retrospective?)
 No ones going to read this besides myself but...
