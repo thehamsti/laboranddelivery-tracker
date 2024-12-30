@@ -1,4 +1,4 @@
-# Labor n Delivery Tracker
+# MiracleMeter
 Just a simple mobile app (specifically for iOS) I made for my wife to anonymously track how many babies she has birthed, and details about each birth.
 
 ### Features:
